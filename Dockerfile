@@ -1,7 +1,0 @@
-#image
-FROM 
-
-RUN
-
-CMD
-
